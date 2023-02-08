@@ -1,0 +1,137 @@
+header{
+    background-image: url("C:/Users/LENOVO/Desktop/ExamenSayna/imageaccueil/arrière_plan (1).png");
+    
+}
+
+p{
+    color: #9e91b7;
+}
+
+h1{
+    color: #9e91b7;
+    font-family: ;
+    display: flex;
+    align-items: ;
+    justify-content: 
+}
+
+h3{
+    color: #9e91b7;
+}
+
+h4{
+    color: #9e91b7;
+}
+
+h5{
+    color: #9e91b7;
+    letter-spacing: 38%;
+    size: 22px;
+}
+
+.intro{
+    background-image: url("C:/Users/LENOVO/Desktop/ExamenSayna/imagewakanda/Pantherwakanda1.png");
+    background-size: cover;
+    height: 600px;
+    width: 104%;
+    color: black;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    columns: 2;
+}
+
+.pal{
+    text-align: right;
+    
+}
+
+.spot{
+    text-align: center;
+}
+
+.alix{
+    text-align: right;
+    margin-bottom: 100%;
+}
+
+
+.intro .overlay {
+    background-color: (0, 0, 0, 0.5);
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.intro p{
+    position: ;
+    color: #9e91b7;
+}
+
+.tete{
+    background-image: url("C:/Users/LENOVO/Desktop/ExamenSayna/imageaccueil/arrière_plan.png");
+}
+
+
+.lien{
+    text-align: right ;
+    color: #3d2da6;
+    word-spacing: 3em;
+}
+
+.imgmarvel{
+    text-align: left;
+}
+
+.container{
+    columns: 2;
+    background-image: url("C:/Users/LENOVO/Desktop/ExamenSayna/imageaccueil/arrière_plan.png");
+}
+
+.container p, h4{
+    margin: 5%;
+    margin-bottom: 5%;
+    margin-left: 10%;
+    margin-right: 5%
+}
+
+
+.box{
+    position: relative;
+    display: block;
+    padding-bottom: 30%;
+    background-color: #3d2da6;
+    width: 73%;
+    letter-spacing: 45%;
+    height: 4%;
+    margin-left: 10%;
+}
+
+.box ,p{
+    color: white;
+    font-size: 10px;
+}
+
+.box::after{
+    display: block;
+    padding-bottom: 30%;
+
+}
+
+.angelina{
+    background-image: url("C:/Users/LENOVO/Desktop/ExamenSayna/imagewakanda/Pantherwakanda2.png");
+    opacity: 100%;
+}
+
+footer{
+    background-image: url("C:/Users/LENOVO/Desktop/ExamenSayna/imageaccueil/back_footer.png");
+    position: relative;
+    display: block;
+    width: 100%;
+    columns:3 ;
+}
+
+

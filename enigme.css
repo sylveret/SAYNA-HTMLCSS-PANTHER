@@ -1,0 +1,125 @@
+.corps{
+    background-image: url("C:/Users/LENOVO/Desktop/ExamenSayna/imageaccueil/arrière_plan (1).png");
+}
+
+.link{
+    text-align: right;
+    word-spacing: 3em;
+}
+
+.img{
+    text-align: left;
+}
+
+.intro{
+    text-align: right;
+    
+}
+
+.ras{
+    columns: 2;
+    padding-right: 96px;
+    padding-top: 100px;
+
+}
+
+.tampi{
+    padding-top:-80px ;
+    padding-bottom: 50px;
+}
+
+.mis{
+    background-image: url("C:/Users/LENOVO/Desktop/ExamenSayna/imageenigme/Pantherenigme2.png");
+}
+
+.envy{
+    background-image: url("C:/Users/LENOVO/Desktop/ExamenSayna/imageenigme/Pantherenigme2.png");
+}
+
+.citation{
+    color:  #9e91b7;
+    text-align: left;
+    justify-content: left;
+    font-size: large;
+    padding-left: 110px;
+
+}
+
+.papi{
+    padding-left:110px ;
+}
+.brut{
+    padding-left: 280px;
+    padding-bottom: 80px;
+}
+
+.transc{
+    color:  #9e91b7;
+    text-align: left;
+    justify-content: left;
+    font-size: small;
+    padding-left: 110px;
+}
+
+.envy{
+    color:  #9e91b7;
+    text-align: right;
+    justify-content: right;
+    font-size: small;
+}
+
+
+.btn{
+    background-color: #9e91b7;
+    border-radius: 38px; /* Coins arrondis */
+    text-align: center; /* Centrer le texte */
+    width: 147px;
+    height: 50px;
+    }
+
+.btn a{
+    text-decoration: none; /* Supprimer le soulignage du lien */
+    line-height: 42px; /* Changer la hauteur de la ligne d'écriture */
+    color: #fff; /* Couleur du texte blanche */
+    }
+
+.btn:hover {
+    background-color: #f2cef2; /* On modifie la couleur du fond au passage de la souris */ 
+    }
+
+.reponse{
+        border-radius: 38em;
+        background-color: #010818;
+        border-bottom: 0px;
+        width: 520px;
+        height: 56px;
+    }
+
+p{
+    color: white;
+    font-size: 10px;
+}
+
+
+h1{
+    color:  #9e91b7;
+}
+
+h5{
+    color: #9e91b7;
+}
+    
+
+footer{
+    background-image: url("C:/Users/LENOVO/Desktop/ExamenSayna/imageaccueil/back_footer.png");
+    columns: 3 ;
+    
+}
+
+.keren{
+    text-align: center;
+}
+
+.intel{
+    text-align: right;
+}
